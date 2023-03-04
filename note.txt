@@ -1,0 +1,4 @@
+Button Font: Roboto
+Menu Font: Poppins
+Banner Background Color: #F0FFF0
+Button Color: #21B573
